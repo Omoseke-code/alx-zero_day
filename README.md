@@ -1,1 +1,2 @@
-My first readme git config --global user.email Omosekesalami@gmail.com
+My first readme 
+yay
